@@ -43,4 +43,3 @@ def play
     turn(board)
     play += 1
   end
-  
