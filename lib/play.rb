@@ -44,4 +44,3 @@ def play
     play += 1
   end
 end
-
